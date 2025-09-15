@@ -1,0 +1,14 @@
+:root{
+    --basic-grey: #efefefef;
+    --basic-blue: #5c5c91; 
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 1rem;
+}
